@@ -51,3 +51,7 @@ Construo e mantenho sistemas **em produção**, do desenho à operação:
 - [**protocolo-dii**](https://github.com/jorgecarneirojr/protocolo-dii) — aplicação web para protocolo de manejo de doença inflamatória intestinal em emergências.
 
 > Parte relevante do meu trabalho é **privada** (código de cliente/NDA): plataformas SaaS, sistemas de busca e clipping, centralização de logs e motores de consulta processual.
+
+---
+
+<sub>Atualizado em 21/09/2026</sub>
