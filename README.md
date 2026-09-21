@@ -22,7 +22,7 @@ Construo e mantenho sistemas **em produção**, do desenho à operação:
 ## Em produção hoje
 
 - **[Falou AI](https://falouai.com.br)** — plataforma própria de atendimento no WhatsApp com IA: onboarding que monta o fluxo por IA, múltiplos funis com roteamento inteligente, agenda, integrações e cobrança recorrente.
-- **CNPJ Fácil** — busca sobre **72,8 milhões** de CNPJs com data lake em Parquet/DuckDB + Elasticsearch (fuzzy, autocomplete, facetas e geolocalização por CEP), latência de 1–2s.
+- **[CNPJ Fácil](https://cnpjfacil.org)** — busca sobre **72,8 milhões** de CNPJs com data lake em Parquet/DuckDB + Elasticsearch (fuzzy, autocomplete, facetas e geolocalização por CEP), latência de 1–2s.
 - **Motor de busca e clipping de mídia** — ingestão de MySQL (~300 GB) para Elasticsearch, com OCR + LLM para extração de notícias de impressos.
 - **API unificada de consulta processual** — roteamento por CNJ com fallback entre e-SAJ/TJSP (certificado A1), PJe (mTLS + TOTP), DataJud e Comunica/DJEN.
 
